@@ -4,7 +4,7 @@
 
 The title says it all.  Try your luck in the lower 🌒rbit and see if you have what it takes to survive.  
 
-### To run the game:
+### To play game:
 1. Download / clone the .cpp and .hpp files
 2. Open your C++ IDE of choice
 3. Create a new project file
