@@ -12,3 +12,5 @@ The title says it all.  Try your luck in the lower 🌒rbit and see if you have 
 5. Compile / build the project
 6. Run
 
+Just a small hint:
+Observatory 🌕 Second Floor 🌖 First Floor 🌗 Control Center 🌘  Base Floor
